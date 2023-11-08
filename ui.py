@@ -3,13 +3,6 @@ import sys
 
 pygame.init()
 
-UNSELECTED = "red"
-SELECTED = "white"
-BUTTONSTATES = {
-    True: SELECTED,
-    False: UNSELECTED
-}
-
 class fonts:
     def __init__(self):
         self.font = pygame.font.SysFont("Orbitron Regular", 28)
