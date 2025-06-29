@@ -1,5 +1,0 @@
--Ensure that all Python files (.py) and assets are colocated in a single directory.
-
--Install the fonts specified in the optional 'requirements.docx' file.
-
--To initiate the program, execute the 'main.py' file.
